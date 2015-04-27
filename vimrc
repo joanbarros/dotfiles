@@ -30,7 +30,7 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 
 Plugin 'scrooloose/nerdtree'
 Plugin 'vim-scripts/fuzzyfinder'
-Plugin 'itchiny/lightline.vim'
+Plugin 'itchyny/lightline.vim'
 Plugin 'mattn/emmet-vim'
 Plugin 'skammer/vim-css-color'
 

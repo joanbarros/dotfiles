@@ -1,4 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/Users/Barros/Documents/Projects/Gastropick/gastropick-api'
 let g:netrw_dirhist_2='/Users/joanbarros/Development/Projects/macros/admin-app/app'
+let g:netrw_dirhist_3='/home/joanbarros/minitest_test'
+let g:netrw_dirhist_4='/home/joanbarros/minitest_test/tests'
