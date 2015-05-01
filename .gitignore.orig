@@ -1,0 +1,6 @@
+vim/bundle/*
+<<<<<<< Updated upstream
+!vim/bundle/Vundle.vim
+=======
+!vim/bundle/Vundle-vim
+>>>>>>> Stashed changes

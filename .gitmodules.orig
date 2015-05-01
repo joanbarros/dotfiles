@@ -1,0 +1,11 @@
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot
+<<<<<<< Updated upstream
+[submodule "vim/bundle/Vundle.vim"]
+	path = vim/bundle/Vundle.vim
+=======
+[submodule "vim/bundle/Vundle-vim"]
+	path = vim/bundle/Vundle-vim
+>>>>>>> Stashed changes
+	url = git@github.com:gmarik/Vundle.vim.git
